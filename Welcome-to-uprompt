@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Best Prompts for Devs</title>
+</head>
+<body>
+	<header>
+		<h1>Best Prompts for Devs</h1>
+		<nav>
+			<ul>
+				<li><a href="#prompt1">Prompt 1</a></li>
+				<li><a href="#prompt2">Prompt 2</a></li>
+				<li><a href="#prompt3">Prompt 3</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="prompt1">
+			<h2>Prompt 1</h2>
+			<p>Describe a time when you had to debug a complex issue and what steps you took to resolve it.</p>
+		</section>
+		<section id="prompt2">
+			<h2>Prompt 2</h2>
+			<p>What are some common challenges you face when working with a team on a project, and how do you address them?</p>
+		</section>
+		<section id="prompt3">
+			<h2>Prompt 3</h2>
+			<p>How do you stay current with the latest technologies and programming languages?</p>
+		</section>
+	</main>
+</body>
+</html>
